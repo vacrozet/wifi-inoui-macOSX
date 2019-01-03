@@ -2,7 +2,7 @@
 
 Connection MacOSX Wifi INOUI
 
-Install.sh 
+## Install.sh 
 ```shell
  curl -sSL https://raw.githubusercontent.com/vacrozet/wifi-inoui-macOSX/master/install.sh | sh
 ```
